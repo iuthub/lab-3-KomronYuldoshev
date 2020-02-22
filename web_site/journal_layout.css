@@ -1,0 +1,25 @@
+body{
+	background-image: url(background.jpg);
+	background-position: cover;
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.main{
+	border: 5px green solid;
+	margin: 0% 10%;
+}
+.header{
+	border: 5px red solid;
+	background-color: white;
+}
+.nav{
+	border: 5px orange solid;
+	margin: 1px;
+}
+.continer{
+	border: 5px blue solid;
+	margin-top: 10px;
+	background-color: #E8FBFB;
+	padding: 5px;
+}
